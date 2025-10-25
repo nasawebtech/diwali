@@ -1,3 +1,0 @@
-This is my first file for git
-I am adding one more line.
-
